@@ -7,7 +7,7 @@
 - :computer: I am a `Golang Developer`
 - :student: I am a `Self taught developer`
 - :technologist: Enthusiastic to `Learn new technologies`
-- ℹ️:Feel free to discuss about `Go`
+- ℹ️Feel free to discuss about `Go`
 
 
 
