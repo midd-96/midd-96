@@ -1,5 +1,14 @@
 # 💫 About Me:
-Golang Developer.<br>Intern at Brototype.<br>Self taught developer.<br>Feel free to discuss about Go.<br>Enthusiastic to learn about new technologies.<br>
+&nbsp;
+<h1 align="center">Hi 👋, I'm  Midlaj</h1>
+ 
+
+- :school: I am an `Intern` at Brototype
+- :computer: I am a `Golang Developer`
+- :student: I am a `Self taught developer`
+- :technologist: Enthusiastic to `Learn new technologies`
+- ℹ️:Feel free to discuss about `Go`
+
 
 
 ## 🌐 Socials:
@@ -17,7 +26,7 @@ Golang Developer.<br>Intern at Brototype.<br>Self taught developer.<br>Feel free
  &nbsp;<i><b>Recent GitHub Activity</b></i>
  
 
-   <a href="https://github.com/salsalvm"><img alt="salsalvm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salsalvm&custom_title=salsalvm's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/midd-96"><img alt="salsalvm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=midd-96&custom_title=midlaj's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </p>
 
